@@ -1,0 +1,14 @@
+.kc-su-migration-notice {
+    color: white;
+    background-color: limegreen;
+
+}
+
+.kc-su-migration-notice p {
+    font-size: 20px;
+}
+
+.kc-su-migrate-code {
+    font-size: 24px;
+    color: red;
+}
